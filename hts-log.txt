@@ -1,0 +1,106 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 May 2024 02:54:58 at https://fiatoairportcity.com.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://fiatoairportcity.com.vn/ -O1 "C:\FIOTIO\FIATO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:55:00	Warning: 	Note: due to https://fiatoairportcity.com.vn remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+02:56:09	Error: 	"Method Not Allowed" (405) at link https://fiatoairportcity.com.vn/xmlrpc.php (from https://fiatoairportcity.com.vn/)
+02:56:12	Warning: 	File not parsed, looks like binary: https://fiatoairportcity.com.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.16.1
+02:56:12	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://fiatoairportcity.com.vn/)
+02:57:49	Warning: 	File not parsed, looks like binary: https://fiatoairportcity.com.vn/wp-content/plugins/image-map-pro-wordpress/fonts/fontawesome-webfont.woff2?v=4.7.0
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=646
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=646 to https://fiatoairportcity.com.vn/gioi-thieu/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=652
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=652 to https://fiatoairportcity.com.vn/tong-quan-du-an/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=5076
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=5076 to https://fiatoairportcity.com.vn/mat-bang/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=650
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=650 to https://fiatoairportcity.com.vn/vi-tri/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=654
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=654 to https://fiatoairportcity.com.vn/view-360/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=656
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=656 to https://fiatoairportcity.com.vn/tien-ich/
+02:57:49	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=658
+02:57:49	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=658 to https://fiatoairportcity.com.vn/thu-vien/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=662
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=662 to https://fiatoairportcity.com.vn/lien-he/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8366
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8366 to https://fiatoairportcity.com.vn/thang-long-real-group-ky-ket-doi-tac-chien-luoc-du-an-fiato-airport-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8294
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8294 to https://fiatoairportcity.com.vn/fiato-city-vinh-danh-top-10-du-an-do-thi-va-nha-o-tiem-nang-nhat-2024/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8227
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8227 to https://fiatoairportcity.com.vn/don-xuan-nhu-y-phu-quy-loc-dien-cung-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8208
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8208 to https://fiatoairportcity.com.vn/tan-huong-phong-cach-song-an-vui-cham-soc-suc-khoe-danh-cho-nguoi-huu-tri-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8204
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8204 to https://fiatoairportcity.com.vn/khong-gian-ket-noi-ban-be-tai-bbq-garden-tang-thuong-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8197
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8197 to https://fiatoairportcity.com.vn/tro-thanh-chu-nhan-xung-tam-voi-he-tien-ich-tang-thuong-an-tuong-hang-dau-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8194
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8194 to https://fiatoairportcity.com.vn/fiato-city-tien-phong-he-long-mon-dau-tien-tai-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8185
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8185 to https://fiatoairportcity.com.vn/he-long-mon-da-tien-ich-tren-cao-tien-phong-tai-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8176
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8176 to https://fiatoairportcity.com.vn/bieu-tuong-hinh-doi-canh-fiato-city-sap-vuon-cao-tren-bau-troi-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8160
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8160 to https://fiatoairportcity.com.vn/vi-tri-da-ket-noi-thuc-day-nhip-song-nang-dong-tai-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8157
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8157 to https://fiatoairportcity.com.vn/dong-nai-639-ty-xay-dung-duong-ton-duc-thang-huyen-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8149
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8149 to https://fiatoairportcity.com.vn/fiato-city-tam-diem-nhip-song-nang-dong-hang-dau-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8137
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8137 to https://fiatoairportcity.com.vn/can-ho-van-duoc-uu-tien-lua-chon-tai-cac-do-thi-lon/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8088
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8088 to https://fiatoairportcity.com.vn/chiem-nguong-thiet-ke-can-ho-mau-fiato-city-xung-tam-bieu-tuong-nhip-song-thoi-dai/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8081
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8081 to https://fiatoairportcity.com.vn/thoi-cua-bat-dong-san-mat-thay-tay-so/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8070
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8070 to https://fiatoairportcity.com.vn/nhu-cau-thue-lon-bat-dong-san-nha-o-khu-vuc-nay-nhieu-tiem-nang-cho-nha-dau-tu/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8060
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8060 to https://fiatoairportcity.com.vn/he-ban-cong-lien-thong-gan-ket-tinh-than-cho-gia-chu-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8055
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8055 to https://fiatoairportcity.com.vn/365-ngay-song-can-bang-voi-ho-boi-vo-cuc-tang-thuong-tai-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8044
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8044 to https://fiatoairportcity.com.vn/trai-nghiem-he-tien-ich-dac-quyen-cho-chuyen-gia-an-cu-tai-fiato-city-2/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8041
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8041 to https://fiatoairportcity.com.vn/moi-truong-cho-con-phat-trien-toan-dien-giua-cong-dong-tinh-hoa-fiato-city-2/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=8009
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=8009 to https://fiatoairportcity.com.vn/moi-truong-cho-con-phat-trien-toan-dien-giua-cong-dong-tinh-hoa-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7960
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7960 to https://fiatoairportcity.com.vn/trai-nghiem-he-tien-ich-dac-quyen-cho-chuyen-gia-an-cu-tai-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7940
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7940 to https://fiatoairportcity.com.vn/fiato-city-loi-giai-cho-bai-toan-nha-o-chat-luong-tai-thanh-pho-trung-chuyen/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7930
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7930 to https://fiatoairportcity.com.vn/fiato-city-huong-suc-hut-tu-quy-hoach-thanh-pho-trung-chuyen-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7905
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7905 to https://fiatoairportcity.com.vn/gam-mau-sang-cho-bat-dong-san-nhon-trach-quy-iii-2023/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7805
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7805 to https://fiatoairportcity.com.vn/nhieu-tiem-nang-tang-gia-bat-dong-san-nhon-trach-se-hoa-rong-trong-tuong-lai/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7799
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7799 to https://fiatoairportcity.com.vn/dep-mien-man-voi-thiet-ke-can-ho-danh-cho-chuyen-gia-tai-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7790
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7790 to https://fiatoairportcity.com.vn/suc-hut-cua-bat-dong-san-do-thi-ve-tinh-nhin-tu-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7780
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7780 to https://fiatoairportcity.com.vn/fiato-city-loi-giai-cho-bai-toan-nha-o-chuyen-gia-tai-nhon-trach/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7745
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7745 to https://fiatoairportcity.com.vn/chinh-thuc-khai-truong-nha-mau-du-an-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7541
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7541 to https://fiatoairportcity.com.vn/hon-500-chuyen-vien-kinh-doanh-tham-gia-le-khoi-dong-du-an-can-ho-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7537
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7537 to https://fiatoairportcity.com.vn/thang-long-real-group-khoi-dong-du-an-can-ho-fiato-city/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7486
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7486 to https://fiatoairportcity.com.vn/buoc-vao-cuoc-dua-moi-thi-truong-bat-dong-san-dang-dan-hoi-phuc/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=7482
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=7482 to https://fiatoairportcity.com.vn/tung-la-diem-nong-bat-dong-san-phia-dong-thi-truong-nhon-trach-dong-nai-co-gi-moi/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=692
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=692 to https://fiatoairportcity.com.vn/thang-long-real-group-huong-di-khac-biet-tren-thi-truong-bat-dong-san/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/?p=688
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/?p=688 to https://fiatoairportcity.com.vn/thang-long-real-group-dong-tho-du-an-chung-cu-g2-thuoc-du-an-thang-long-home-hiep-phuoc/
+02:57:50	Warning: 	Moved Permanently for https://fiatoairportcity.com.vn/category/tin-tuc/page/1/
+02:57:50	Warning: 	File has moved from https://fiatoairportcity.com.vn/category/tin-tuc/page/1/ to https://fiatoairportcity.com.vn/category/tin-tuc/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 52 seconds : 585 links scanned, 537 files written (146639664 bytes overall) [146624898 bytes received at 852470 bytes/sec], 364352 bytes transferred using HTTP compression in 4 files, ratio 29%, 1.0 requests per connection
+(2 errors, 93 warnings, 0 messages)
